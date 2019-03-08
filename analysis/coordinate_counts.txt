@@ -1,0 +1,21 @@
+  73042 CDS,product,molecular chaperone DnaJ
+  40058 gene,gene,dnaJ
+   9314 CDS,product,DnaJ
+   4401 CDS,product,chaperone protein DnaJ
+   3235 CDS,product,Chaperone protein DnaJ
+   2726 CDS,product,DnaJ protein
+   1523 CDS,product,dnaJ domain protein
+   1428 CDS,product,DnaJ domain protein
+   1363 CDS,product,chaperone dnaJ
+    660 CDS,product,dnaJ
+    598 CDS,product,chaperone DnaJ
+    370 CDS,product,chaperone protein dnaJ
+     83 CDS,product,dnaJ central domain protein
+     19 CDS,product,Chaperone protein dnaJ
+      3 CDS,product,Molecular chaperone DnaJ
+      2 gene,gene,DnaJ
+      1 CDS,product,Molecular chaperone dnaj
+      1 CDS,product,DNAJ protein
+      1 CDS,product,DnaJ central domain protein
+      1 CDS,product,DNAj
+      1 CDS,product,chaperone protein dnaj

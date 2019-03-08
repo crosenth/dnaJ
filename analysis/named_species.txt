@@ -1,0 +1,197 @@
+Candidatus Rohrkolberia cinguli
+Candidatus Moranella endobia
+Candidatus Schneideria nysicola
+Candidatus Profftia virida
+Candidatus Profftia tarda
+Candidatus Profftia lariciata
+Candidatus Profftia japonica
+Candidatus Gillettellia cooleyia
+Lelliottia jeotgali
+Lelliottia aquatilis
+Lelliottia amnigena
+Lelliottia nimipressuralis
+[Enterobacter] lignolyticus
+Pluralibacter gergoviae
+Pluralibacter pyrinus
+Kosakonia oryzendophytica
+Kosakonia oryziphila
+Kosakonia sacchari
+Kosakonia pseudosacchari
+Kosakonia cowanii
+Kosakonia radicincitans
+Kosakonia oryzae
+Kosakonia arachidis
+Shimwellia blattae
+Shimwellia pseudoproteus
+Rosenbergiella epipactidis
+Rosenbergiella collisarenosi
+Rosenbergiella australiborealis
+Rosenbergiella nectarea
+Candidatus Aschnera chinzeii
+Pseudocitrobacter faecalis
+Pseudocitrobacter anthropi
+Cedecea davisae
+Cedecea neteri
+Cedecea lapagei
+Trabulsiella guamensis
+Trabulsiella odontotermitis
+Yokenella regensburgei
+Raoultella electrica
+Raoultella ornithinolytica
+Raoultella planticola
+Raoultella terrigena
+Franconibacter daqui
+Franconibacter helveticus
+Franconibacter pulveris
+Siccibacter colletis
+Siccibacter turicensis
+Izhakiella capsodis
+Izhakiella australiensis
+Enterobacillus tribolii
+Atlantibacter subterranea
+Atlantibacter hermannii
+Metakosakonia massiliensis
+[Kluyvera] intestini
+Pseudescherichia vulneris
+Limnobaculum parvum
+Superficieibacter electus
+Candidatus Macropleicola appendiculatae
+Candidatus Macropleicola muticae
+Candidatus Riesia pediculicola
+Candidatus Riesia pediculischaeffi
+Candidatus Riesia pthiripubis
+Candidatus Ishikawaella capsulata
+Cronobacter condimenti
+Cronobacter sakazakii
+Cronobacter dublinensis
+Cronobacter muytjensii
+Cronobacter turicensis
+Cronobacter malonaticus
+Cronobacter universalis
+Candidatus Stammerula tephritidis
+Mangrovibacter yixingensis
+Mangrovibacter phragmitis
+Mangrovibacter plantisponsor
+Biostraticola tofi
+Citrobacter pasteurii
+Citrobacter bitternis
+Citrobacter europaeus
+Citrobacter amalonaticus
+Citrobacter koseri
+Citrobacter intermedius
+Citrobacter farmeri
+Citrobacter rodentium
+Citrobacter youngae
+Citrobacter portucalensis
+Citrobacter freundii
+Citrobacter braakii
+Citrobacter sedlakii
+Citrobacter werkmanii
+Citrobacter gillenii
+Citrobacter murliniae
+Enterobacter tabaci
+Enterobacter timonensis
+Enterobacter huaxiensis
+Enterobacter nickellidurans
+Enterobacter mori
+Enterobacter bugandensis
+Enterobacter soli
+Enterobacter siamensis
+Enterobacter hormaechei
+Enterobacter roggenkampii
+Enterobacter kobei
+Enterobacter chengduensis
+Enterobacter chuandaensis
+Enterobacter ludwigii
+Enterobacter cloacae
+Enterobacter asburiae
+Enterobacter cancerogenus
+Enterobacter genomosp. O
+Enterobacter genomosp. S
+Escherichia marmotae
+Escherichia albertii
+Escherichia senegalensis
+Escherichia faecalis
+Escherichia coli
+Escherichia fergusonii
+Klebsiella michiganensis
+Klebsiella quasipneumoniae
+Klebsiella steroids
+Klebsiella quasivariicola
+Klebsiella kielensis
+Klebsiella grimontii
+Klebsiella milletis
+Klebsiella senegalensis
+Klebsiella variicola
+Klebsiella granulomatis
+Klebsiella aerogenes
+Klebsiella oxytoca
+Klebsiella pneumoniae
+Kluyvera ascorbata
+Kluyvera cryocrescens
+Kluyvera intermedia
+Kluyvera georgiana
+Candidatus Phlomobacter fragariae
+Salmonella enterica
+Salmonella bongori
+Shigella boydii
+Shigella dysenteriae
+Shigella flexneri
+Shigella sonnei
+Candidatus Curculioniphilus buchneri
+Buttiauxella chrysanthemi <C1B>
+Buttiauxella agrestis
+Buttiauxella brennerae
+Buttiauxella ferragutiae
+Buttiauxella gaviniae
+Buttiauxella izardii
+Buttiauxella noackiae
+Buttiauxella warmboldiae
+Leclercia adecarboxylata
+Candidatus Cuticobacterium kirbyi
+Gibbsiella acetica
+Gibbsiella greigii
+Gibbsiella dentisursi
+Gibbsiella quercinecans
+[Erwinia] teleogrylli
+Salmonella enterica subsp. enterica serovar Typhi x Shigella flexneri 2a
+Shigella flexneri x Salmonella enterica subsp. enterica serovar Typhi
+Salmonella enterica subsp. enterica serovar Typhi x Shigella flexneri 3a
+Aquamonas haywardensis
+Candidatus Annandia adelgestsuga
+Candidatus Annandia pinicola
+Candidatus Benitsuchiphilus tojoi
+Candidatus Rosenkranzia clausaccus
+Candidatus Hartigia pinicola
+Candidatus Tachikawaea gelatinosa
+Candidatus Doolittlea endobia
+Candidatus Hoaglandella endobia
+Candidatus Mikella endobia
+Candidatus Gullanella endobia
+Candidatus Kotejella greeniscae
+Candidatus Purcelliella pentastirinorum
+Candidatus Kleidoceria schneideri
+Candidatus Hamiltonella defensa
+Candidatus Regiella insecticola
+Candidatus Puchtella pedicinophila
+Candidatus Westeberhardia cardiocondylae
+Candidatus Blochmannia castaneus
+Candidatus Blochmannia rufipes
+Candidatus Blochmannia pennsylvanicus
+Candidatus Blochmannia herculeanus
+Candidatus Blochmannia floridanus
+Candidatus Blochmannia festinatus
+Candidatus Blochmannia sansabeanus
+Candidatus Blochmannia vafer
+Candidatus Blochmannia laevigatus
+Candidatus Blochmannia sayi
+Candidatus Blochmannia ocreatus
+Candidatus Blochmannia schaefferi
+Candidatus Blochmannia vicinus
+Candidatus Blochmannia ulcerosus
+Candidatus Blochmannia chromaiodes
+Candidatus Blochmannia novaeboracensis
+Candidatus Blochmannia americanus
+Candidatus Blochmannia nearcticus
+Candidatus Blochmannia fellah
+Candidatus Blochmannia clarithorax

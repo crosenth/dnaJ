@@ -1,0 +1,559 @@
+  73043 			product	molecular chaperone DnaJ
+  39642 			gene	dnaJ
+  20738 			note	with CpbA modulates the activity of the dnaK chaperone system; interacts with CbpA and inhibits both the DnaJ-like co-chaperone activity and the DNA binding activity of CbpA
+  20699 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock
+   4397 			product	chaperone protein DnaJ
+   3881 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria
+   3816 			note	functions as a co-chaperone with DnaK; involved in regulation of colanic acid capsule; inner membrane protein; dimerized via transmembrane domain; J-like domain is cytoplasmic and can functionally substitute for DnaJ; stimulates synthesis of colanic acid mucoid capsule through the RcsB/C signal transduction system
+   3605 			note	with DnaK and DnaJ acts in response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins; may act as a thermosensor
+   3235 			product	Chaperone protein DnaJ
+   3046 			product	DnaJ-like protein DjlA
+   2725 			product	DnaJ protein
+   2067 			product	DnaJ domain-containing protein
+   1830 			note	COG0484 DnaJ-class molecular chaperone with C-terminal Zn finger domain
+   1569 			note	COG1076 DnaJ-domain-containing proteins 1
+   1523 			product	dnaJ domain protein
+   1428 			product	DnaJ domain protein
+   1360 			product	chaperone dnaJ
+   1315 			product	DnaJ-like protein djlA
+    745 			product	DnaJ-class chaperone
+    649 			product	DnaJ-like protein
+    631 			note	COG2214 DnaJ-class molecular chaperone
+    589 			product	chaperone DnaJ
+    562 			product	dnaJ-like protein DjlA
+    407 			product	DnaJ family molecular chaperone
+    370 			product	chaperone protein dnaJ
+    358 			product	heat shock protein DnaJ domain-containing protein
+    297 			gene_desc	molecular chaperone DnaJ
+    242 			product	DnaJ-class molecular chaperone CbpA
+    220 			product	DnaJ-like chaperone
+    193 			gene	dnaJ_2
+    193 			gene	dnaJ_1
+    159 			product	heat shock protein DnaJ domain protein
+    145 			product	Heat shock protein DnaJ domain protein
+    130 			product	DnaJ/Hsp40 (heat shock protein 40)
+    111 			product	DnaJ
+     95 			product	DnaJ like chaperone protein
+     89 			product	heat shock protein DnaJ
+     87 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; incomplete; too short partial abutting assembly gap; missing stop
+     85 			product	putative DnaJ-class molecular chaperone
+     83 			product	dnaJ central domain protein
+     77 			product	chaperone Hsp70, co-chaperone with DnaJ
+     76 			product	putative chaperone DnaJ
+     75 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; incomplete; too short partial abutting assembly gap; missing start
+     66 			note	KEGG: apb:SAR116_1614 2.9e-99 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+     64 			product	dnaJ-like protein djlA
+     58 			product	curved DNA-binding protein, DnaJ homologue that functions as a co-chaperone of DnaK
+     56 			product	DnaJ-class molecular chaperone
+     56 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; incomplete; too short partial abutting assembly gap; missing start and stop
+     53 			product	DnaJ-like protein, membrane anchored
+     48 			product	DnaJ-like molecular chaperone specific for IscU
+     40 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; incomplete; too short partial abutting assembly gap; missing stop
+     38 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; incomplete; too short partial abutting assembly gap; missing start
+     34 			product	putative DnaJ-class chaperone
+     32 			note	KEGG: apb:SAR116_1614 3.8e-33 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+     32 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; frameshifted
+     28 			note	functions as a co-chaperone with DnaK; involved in regulation of colanic acid capsule; inner membrane protein; dimerized via transmembrane domain; J-like domain is cytoplasmic and can functionally substitute for DnaJ; stimulates synthesis of colanic acid mucoid capsule through the RcsB/C signal transduction system; incomplete; too short partial abutting assembly gap; missing start
+     26 			gene	dnaJ_3
+     24 			note	with CpbA modulates the activity of the dnaK chaperone system; interacts with CbpA and inhibits both the DnaJ-like co-chaperone activity and the DNA binding activity of CbpA; incomplete; too short partial abutting assembly gap; missing start
+     24 			note	KEGG: apb:SAR116_1614 9.4e-30 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+     24 			note	KEGG: apb:SAR116_1614 3.2e-100 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+     23 			product	molecuar chaperone DnaJ
+     22 			product	putative DnaJ-class molecular chaperone with C-terminal Zn finger domain
+     22 			product	chaperone Hsp70, with co-chaperone DnaJ
+     22 			note	with CpbA modulates the activity of the dnaK chaperone system; interacts with CbpA and inhibits both the DnaJ-like co-chaperone activity and the DNA binding activity of CbpA; incomplete; too short partial abutting assembly gap; missing stop
+     21 			function	DnaJ-class molecular chaperone with C-terminal Zn finger domain
+     20 			note	KEGG: apb:SAR116_1614 2.4e-33 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+     20 			note	functions as a co-chaperone with DnaK; involved in regulation of colanic acid capsule; inner membrane protein; dimerized via transmembrane domain; J-like domain is cytoplasmic and can functionally substitute for DnaJ; stimulates synthesis of colanic acid mucoid capsule through the RcsB/C signal transduction system; incomplete; too short partial abutting assembly gap; missing stop
+     19 			product	Putative molecular chaperone, DnaJ family
+     19 			product	Chaperone protein dnaJ
+     19 			note	COG1107 Archaea-specific RecJ-like exonuclease, contains DnaJ-type Zn finger domain
+     18 			product	DnaJ-like protein MG200
+     18 			product	DnaJ family protein
+     17 			function	DnaJ-domain-containing proteins 1
+     16 			product	dnaJ
+     15 			product	DnaJ-like molecular chaperone
+     14 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; frameshifted; too many ambiguous residues
+     14 			note	DnaJ domain protein; this gene contains a premature stop which may be the result of sequencing error; identified by match to protein family HMM PF00226
+     13 			note	dnaJ_bact: chaperone protein DnaJ
+     12 			product	DnaJ family chaperone protein
+     12 			note	DnaJ domain protein; this gene contains a premature stop which may be the result of sequencing error
+     11 			product	putative molecular chaperone, DnaJ family
+     11 			product	putative heat shock DnaJ domain protein
+     11 			note	with DnaK and DnaJ acts in response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins; may act as a thermosensor; incomplete; too short partial abutting assembly gap; missing stop
+     11 			note	similar to DnaJ
+     10 			product	COG0484: DnaJ-class molecular chaperone with C-terminal Zn finger domain
+     10 			note	PS00636 Nt-dnaJ domain signature.
+     10 			note	COG0484 DnaJ-class molecular chaperone with C-terminal Zn finger domain; Qin prophage
+      9 			product	putative heat shock DnaJ domain-containing protein
+      9 			product	putative dnaJ domain-containing protein
+      9 			product	protein DjlA, DnaJ family
+      9 			product	chaperone DnaJ domain protein
+      9 			note	potential frameshift: common BLAST hit: gi|386590587|ref|YP_006086987.1| DnaJ/Hsp40 (heat shock protein 40)
+      9 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; incomplete; partial in the middle of a contig; missing start and stop
+      8 			product	DnaJ domain
+      8 			product	dnaJ C terminal domain protein
+      8 			product	DnaJ-class molecular chaperone with C-terminal Zn finger domain
+      8 			note	DnaJ domain or J-domain. DnaJ/Hsp40 (heat shock protein 40) proteins are highly conserved and play crucial roles in protein translation, folding, unfolding, translocation, and degradation. They act primarily by stimulating the ATPase activity of Hsp70s; Region: DnaJ; cd06257
+      7 			product	putative DnaJ domain protein
+      7 			product	heat shock DnaJ domain protein
+      7 			note	with CpbA modulates the activity of the dnaK chaperone system; interacts with CbpA and inhibits both the DnaJ-like co-chaperone activity and the DNA binding activity of CbpA; incomplete; partial in the middle of a contig; missing stop
+      7 			note	potential frameshift: common BLAST hit: gi|194450645|ref|YP_002044693.1| DnaJ domain-containing protein
+      7 			note	Negative regulator of class I heat shock genes (grpE-dnaK-dnaJ and groELS operons). Prevents heat-shock induction of these operons
+      7 			note	curved DNA-binding protein; functions closely related to DnaJ
+      7 			gene_desc	dnaJ
+      6 			product	dnaJ domain-containing protein
+      6 			product	conserved hypothetical protein (homologue of DnaJ: DNA damage inducible protein)
+      6 			note	KEGG: apb:SAR116_1614 6.0e-99 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+      6 			note	KEGG: apb:SAR116_1614 2.7e-32 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+      6 			note	KEGG: apb:SAR116_1614 2.4e-33 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 10.00
+      6 			note	KEGG: apb:SAR116_1614 1.8e-99 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+      6 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; incomplete; too short partial abutting assembly gap; missing start and stop
+      6 			note	DnaJ domain protein; identified by match to protein family HMM PF00226
+      5 			product	DnaJ-domain-containing proteins 1
+      5 			note	similar to DnaJ protein, Escherichia coli O157 Sakai ECs0015
+      5 			note	PS00637 CXXCXGXG dnaJ domain signature.
+      5 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; incomplete; partial in the middle of a contig; missing start
+      5 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; too many ambiguous residues
+      5 			note	COG1107 Archaea-specific RecJ-like exonuclease, contains DnaJ-type Zn finger domain; Qin prophage
+      4 			prot_desc	putative DnaJ-class molecular chaperone
+      4 			prot_desc	functions closely related to DnaJ
+      4 			prot_desc	DnaJ-class molecular chaperone
+      4 			product	DnaJ-domain-containing protein 1
+      4 			product	DnaJ-class molecular chaperone with C-terminal Zn finger domain protein
+      4 			note	Zinc finger domain of DnaJ and HSP40; Region: DnaJ_zf; cd10719
+      4 			note	with DnaK and DnaJ acts in response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins; may act as a thermosensor; incomplete; too short partial abutting assembly gap; missing start
+      4 			note	PS00636 Nt-dnaJ domain signature
+      4 			note	protein DjlA, DnaJ family; identified by match to protein family HMM PF00226
+      4 			note	Pfam:pfam00226 DnaJ domain
+      4 			note	KEGG: apb:SAR116_1614 8.0e-33 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+      4 			note	KEGG: apb:SAR116_1614 3.7e-99 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+      4 			note	KEGG: apb:SAR116_1614 2.3e-99 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+      4 			note	KEGG: apb:SAR116_1614 1.8e-33 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+      4 			note	KEGG: apb:SAR116_1614 1.3e-32 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+      4 			note	KEGG: apb:SAR116_1614 1.0e-32 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+      4 			note	KEGG: apb:SAR116_1614 0.0031 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 8.96
+      4 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; incomplete; partial in the middle of a contig; missing stop
+      4 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; frameshifted; incomplete; too short partial abutting assembly gap; missing start
+      4 			note	functions as a co-chaperone with DnaK; involved in regulation of colanic acid capsule; inner membrane protein; dimerized via transmembrane domain; J-like domain is cytoplasmic and can functionally substitute for DnaJ; stimulates synthesis of colanic acid mucoid capsule through the RcsB/C signal transduction system; incomplete; too short partial abutting assembly gap; missing start and stop
+      4 			note	DnaJ family
+      4 			note	DnaJ domain protein
+      4 			note	C-terminal substrate binding domain of DnaJ and HSP40; Region: DnaJ_C; cd10747
+      4 			gene	dnaJ_4
+      3 			prot_desc	dnaJ
+      3 			product	putative DnaJ family chaperone DjlB
+      3 			product	protein with DnaJ-like domain
+      3 			product	phage lambda replication; host DNA synthesis; heat shock protein; protein repair, subunit of DnaJ/DnaK/GrpE
+      3 			product	Molecular chaperone protein DnaJ
+      3 			product	Gifsy-2 prophage putative molecular chaperone, DnaJ family
+      3 			product	DnaJ-like protein subfamily A member 1 molecular chaperone DnaJ
+      3 			product	DnaJ-like protein DjlA, membrane anchored
+      3 			product	DnaJ-class moleculare chaperone
+      3 			product	curved DNA-binding protein, DnaJ-like protein that functions as a co-chaperone of DnaK
+      3 			product	curved DNA-binding protein, DnaJ-like protein
+      3 			product	COG2214: DnaJ-class molecular chaperone
+      3 			product	chaperone with DnaK; heat shock protein, subunit of DnaJ/DnaK/GrpE
+      3 			product	chaperone protein DnaJ (heat shock protein J)
+      3 			product	chaperone Hsp70; DNA biosynthesis; autoregulated heat shock proteins, subunit of DnaJ/DnaK/GrpE
+      3 			product	chaperone dnaJ domain protein
+      3 			note	with CpbA modulates the activity of the dnaK chaperone system; interacts with CbpA and inhibits both the DnaJ-like co-chaperone activity and the DNA binding activity of CbpA; incomplete; partial in the middle of a contig; missing start
+      3 			note	with CpbA modulates the activity of the dnaK chaperone system; interacts with CbpA and inhibits both the DnaJ-like co-chaperone activity and the DNA binding activity of CbpA; Derived by automated computational analysis using gene prediction method: Protein Homology.
+      3 			note	PFAM: DnaJ domain; Tellurite resistance protein TerB
+      3 			note	IPR001623: Heat shock protein DnaJ, N-terminal
+      3 			note	highly similar to DnaJ-like protein DjlA from Shigella flexneri (sp|Q7UDT6)
+      3 			note	highly similar to chaperone protein DnaJ from Klebsiella pneumoniae subsp. pneumoniae strain ATCC 700721 - MGH 78578 (sp|A6T4F5)
+      3 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; frameshifted; incomplete; too short partial abutting assembly gap; missing stop
+      3 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; frameshifted
+      3 			note	functions as a co-chaperone with DnaK; involved in regulation of colanic acid capsule; inner membrane protein; dimerized via transmembrane domain; J-like domain is cytoplasmic and can functionally substitute for DnaJ; stimulates synthesis of colanic acid mucoid capsule through the RcsB/C signal transduction system; frameshifted
+      3 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; incomplete; partial in the middle of a contig; missing stop
+      3 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; incomplete; partial in the middle of a contig; missing start and stop
+      3 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; incomplete; partial in the middle of a contig; missing start
+      3 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; Derived by automated computational analysis using gene prediction method: Protein Homology.
+      3 			note	Dna-J like membrane chaperone protein PRK09430~DnaJ-like protein DjlA of Enterobacteriaceae UniRef RepID=DJLA_ERWCT
+      3 			note	DnaJ homologue that functions as a co-chaperone of DnaK
+      3 			note	DnaJ domain protein; this gene contains a frame shift which may be the result of sequencing error; identified by match to protein family HMM PF00226
+      3 			note	DnaJ domain or J-domain. DnaJ/Hsp40 (heat shock protein 40) proteins are highly conserved and play crucial roles in protein translation, folding, unfolding, translocation, and degradation. They act primarily by stimulating the ATPase activity of Hsp70s; Region: DnaJ; cl02542
+      3 			note	DnaJ-domain-containing proteins 1 COG1076~Heat shock protein DnaJ domain protein of Enterobacteriaceae UniRef RepID=A4WEQ1_ENT38
+      3 			note	dnaJ
+      3 			note	COG: COG1076 DnaJ-domain-containing proteins 1~Psort location: CytoplasmicMembrane, score:9.59
+      3 			note	COG0484 DnaJ-class molecular chaperone with C-terminal Zn finger domain; Qin prophage; putative antitermination protein Q
+      3 			note	COG0484 DnaJ-class molecular chaperone with C-terminal Zn finger domain; overlaps another CDS with the same product name
+      3 			note	co-chaperone with DnaJ
+      3 			note	chaperone protein DnaJ PRK10767~Chaperone protein DnaJ of root UniRef RepID=DNAJ_VIBC3
+      2 			prot_desc	DnaJ-class molecular chaperone; plays crucial roles in protein translation, folding, unfolding, translocation, and degradation
+      2 			product	truncated DnaJ
+      2 			product	putative DnaJ domain-containing protein
+      2 			product	Putative DnaJ-class molecular chaperone
+      2 			product	Predicted DnaJ family chaperone DjlB
+      2 			product	predicted DnaJ family chaperone DjlB
+      2 			product	Molecular chaperones (DnaJ family)
+      2 			product	molecular chaperone, DnaJ family
+      2 			product	Molecular chaperone DnaJ
+      2 			product	DnaJ region protein
+      2 			product	DnaJ-like, subfamily C, domain-containing protein
+      2 			product	DnaJ-like membrane chaperone protein
+      2 			product	DnaJ J-domain protein
+      2 			product	DnaJ family chaperone
+      2 			product	DnaJ-domain-containing protein
+      2 			product	dnaJ-class molecular chaperone with C-terminal Zn finger domain protein
+      2 			product	DnaJ-class molecular chaperone with C
+      2 			product	DnaJ-class molecular chaperone, truncated
+      2 			product	curved DNA-binding protein; functions closely related to DnaJ
+      2 			product	conserved hypothetical protein (homologue ofDnaJ: DNA damage inducible protein)
+      2 			product	chaperone Hsp70, with co-chaperone DnaJ protein
+      2 			product	ATP-dependent protease, Hsp 100, part of novel multi-chaperone system with DnaK, DnaJ, and GrpE
+      2 			product	ATP-dependent protease, Hsp 100, part of multi-chaperone system with DnaK, DnaJ, and GrpE
+      2 			note	with DnaK and DnaJ acts in response to hyperosmoticand heat shock by preventing the aggregation ofstress-denatured proteins; may act as a thermosensor~Geneious type: cds; label: grpE CDS; phenotype; Not classified
+      2 			note	with DnaK and DnaJ acts in response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins; may act as a thermosensor; frameshifted
+      2 			note	with DnaK and DnaJ acts in response to hyperosmoticand heat shock by preventing the aggregation ofstress-denatured proteins; may act as a thermosensor;Derived by automated computational analysis using geneprediction method: Protein Homology.
+      2 			note	with CpbA modulates the activity of the dnaK chaperone system; interacts with CbpA and inhibits both the DnaJ-like co-chaperone activity and the DNA binding activity of CbpA; yccD CDS
+      2 			note	with CpbA modulates the activity of the dnaK chaperone system; interacts with CbpA and inhibits both the DnaJ-like co-chaperone activity and the DNA binding activity of CbpA; incomplete; partial in the middle of a contig; missing start and stop
+      2 			note	with CpbA modulates the activity of the dnaK chaperone system; interacts with CbpA and inhibits both the DnaJ-like co-chaperone activity and the DNA binding activity of CbpA~Geneious type: cds; label: yccD CDS
+      2 			note	with CpbA modulates the activity of the dnaK chaperone system; interacts with CbpA and inhibits both the DnaJ-like co-chaperone activity and the DNA binding activity of CbpA; frameshifted
+      2 			note	Uncharacterized J domain-containing protein djlC;, Heat shock protein DnaJ, N-terminal
+      2 			note	truncated DnaJ
+      2 			note	TIGRFAM: chaperone protein DnaJ~PFAM: chaperone DnaJ domain protein; DnaJ central domain protein; heat shock protein DnaJ domain protein~KEGG: ssn:SSON_0015 chaperone protein DnaJ~SMART: heat shock protein DnaJ domain protein
+      2 			note	similar to Salmonella typhi CT18 DnaJ protein
+      2 			note	similar to Salmonella typhi CT18 DnaJ-like protein
+      2 			note	similar to Escherichia coli putative enzyme of polynucleotide modification (AAC73747.1); DnaJ family
+      2 			note	similar to Escherichia coli heat shock protein (AAC75641.1); Hsp 100; part of novel multi-chaperone system with DnaK, DnaJ, and GrpE
+      2 			note	similar to DnaJ domain protein
+      2 			note	similar to DnaJ-domain-containing proteins 1 COG1076~similar to DnaJ-like protein djlA of Gammaproteobacteria UniRef RepID=DJLA_ECOL6
+      2 			note	similar to DnaJ-domain-containing proteins 1 COG1076~similar to Co-chaperone protein hscB of Enterobacteriaceae UniRef RepID=HSCB_ECO7I
+      2 			note	similar to DnaJ-class molecular chaperone with C-terminal Zn finger domain COG0484~similar to Curved DNA-binding protein of Proteobacteria UniRef RepID=CBPA_SERP5
+      2 			note	similar to DnaJ-class molecular chaperone with C-terminal Zn finger domain COG0484~similar to Chaperone protein dnaJ of Proteobacteria UniRef RepID=DNAJ_VIBVY
+      2 			note	similar to DnaJ-class molecular chaperone
+      2 			note	similar to ATP-binding subunits of Clp protease and DnaK/DnaJ chaperones COG0542~similar to Chaperone protein ClpB of Proteobacteria UniRef RepID=CLPB_BLOFL
+      2 			note	similar to ATP-binding subunits of Clp protease and DnaK/DnaJ chaperones COG0542~similar to ATP-dependent clp protease ATP-binding subunit ClpA of Proteobacteria UniRef RepID=B8GZM9_CAUCN
+      2 			note	putative RBS for dnaJ; RegulonDB:STMS1H000409
+      2 			note	Putative molecular chaperone, DnaJ family
+      2 			note	putative DnaJ-class molecular chaperone
+      2 			note	PS00637 CXXCXGXG dnaJ domain signature
+      2 			note	Probable chaperone. Has ATPase activity. Not stimulated by DnaJ. Belongs to the heat shock protein 70 family
+      2 			note	potential frameshift: common BLAST hit: gi|194443222|ref|YP_002039901.1| DnaJ domain protein
+      2 			note	phenotype; Not classified; with DnaK and DnaJ acts in response to hyperosmoticand heat shock by preventing the aggregation ofstress-denatured proteins; may act as a thermosensor; grpE CDS
+      2 			note	phenotype; Not classified; functions as a co-chaperone with DnaK; involved in regulation of colanic acid capsule; inner membrane protein; dimerized via transmembrane domain; J-like domain is cytoplasmic and can functionally substitute for DnaJ; stimulates synthesis of colanic acid mucoid capsule through the RcsB/C signal transduction system; djlA CDS
+      2 			note	PFAM: heat shock protein DnaJ domain protein~KEGG: ssn:SSON_0603 hypothetical protein
+      2 			note	PFAM: heat shock protein DnaJ domain protein~KEGG: sbo:SBO_0510 putative enzyme of polynucleotide modification
+      2 			note	PFAM: heat shock protein DnaJ domain protein~KEGG: eoh:ECO103_0656 Hsc56 co-chaperone of HscC
+      2 			note	PFAM: heat shock protein DnaJ domain protein~KEGG: enc:ECL_04453 heat shock protein DnaJ domain-containing protein
+      2 			note	PFAM: DnaJ C terminal region; DnaJ central domain (4 repeats); DnaJ domain~TIGRFAM: chaperone protein DnaJ
+      2 			note	Part of a stress-induced multi-chaperone system, it is involved in the recovery of the cell from heat-induced damage, in cooperation with DnaK, DnaJ and GrpE. Acts before DnaK, in the processing of protein aggregates. Protein binding stimulates the ATPase activit; ATP hydrolysis unfolds the denatured protein aggregates, which probably helps expose new hydrophobic binding sites on the surface of ClpB-bound aggregates, contributing to the solubilization and refolding of denatured protein aggregates by DnaK (By similarity); Belongs to the ClpA/ClpB family
+      2 			note	Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins, in association with DnaK and GrpE. It is the nucleotide exchange factor for DnaK and may function as a thermosensor. Unfolded proteins bind initially to Dna; upon interaction with the DnaJ-bound protein, DnaK hydrolyzes its bound ATP, resulting in the formation of a stable complex. GrpE releases ADP from Dna; ATP binding to DnaK triggers the release of the substrate protein, thus completing the reaction cycle. Several rounds of ATP- dependent interactions between DnaJ, DnaK and GrpE are required for fully efficient folding; Belongs to the GrpE family
+      2 			note	Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins and by disaggregating proteins, also in an autonomous, DnaK-independent fashion. Unfolded proteins bind initially to Dna; upon interaction with the DnaJ-bound protein, DnaK hydrolyzes its bound ATP, resulting in the formation of a stable complex. GrpE releases ADP from Dna; ATP binding to DnaK triggers the release of the substrate protein, thus completing the reaction cycle. Several rounds of ATP-dependent interactions between DnaJ, DnaK and GrpE are required for fully efficient folding. Also involved, together with DnaK and GrpE, in the DNA replication of plasmids through activation of initiation proteins; Belongs to the DnaJ family; Contains 1 CR-type zinc finger; Contains 1 J domain
+      2 			note	N-terminal tellurium resistance protein terB-like domain of heat shock DnaJ-like proteins; Region: terB_like_DjlA; cd07316
+      2 			note	Note the PFam match to heat shock protein DnaJmotif and the similarity to the upstream CDS SEN0625
+      2 			note	Negative regulator of class I heat shock genes (grpE-dnaK-dnaJ and groELS operons). Prevents heat-shock induction of these operons; incomplete; too short partial abutting assembly gap; missing stop
+      2 			note	KEGG: ssn:SSON_0600 putative enzyme of polynucleotide modification~PFAM: heat shock protein DnaJ domain protein~SMART: heat shock protein DnaJ domain protein
+      2 			note	KEGG: shn:Shewana3_0875 0.0084 formate dehydrogenase K00122~COG: COG2214 DnaJ-class molecular chaperone~Psort location: Cytoplasmic, score:9.97
+      2 			note	KEGG: sbo:SBO_2231 curved DNA-binding protein CbpA~PFAM: chaperone DnaJ domain protein; heat shock protein DnaJ domain protein~SMART: heat shock protein DnaJ domain protein
+      2 			note	KEGG: apb:SAR116_1614 9.3e-23 molecular chaperone, DnaJ family K03686~Psort location: Cytoplasmic, score: 9.97
+      2 			note	KEGG: apb:SAR116_1614 7.2e-32 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+      2 			note	KEGG: apb:SAR116_1614 4.1e-100 molecular chaperone, DnaJ family K03686~Psort location: Cytoplasmic, score: 9.97
+      2 			note	KEGG: apb:SAR116_1614 4.0e-22 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+      2 			note	KEGG: apb:SAR116_1614 2.3e-99 molecular chaperone, DnaJ family K03686~Psort location: Cytoplasmic, score: 9.97
+      2 			note	KEGG: apb:SAR116_1614 2.2e-30 molecular chaperone, DnaJ family K03686~Psort location: Cytoplasmic, score: 9.67
+      2 			note	KEGG: apb:SAR116_1614 2.1e-32 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 9.97
+      2 			note	KEGG: apb:SAR116_1614 0.0084 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 8.96
+      2 			note	KEGG: apb:SAR116_1614 0.0041 DnaJ family molecular chaperone K03686~Psort location: Cytoplasmic, score: 8.96
+      2 			note	Interacts with CbpA and inhibits both the DnaJ-like co- chaperone activity and the DNA binding activity of CbpA. Together with CbpA, modulates the activity of the DnaK chaperone system. Does not inhibit the co-chaperone activity of DnaJ; Belongs to the CbpM family
+      2 			note	Hsp 100; part of novel multi-chaperone system with DnaK, DnaJ, and GrpE; similar to E. coli heat shock protein (AAC75641.1); Blastp hit to AAC75641.1 (857 aa), 96% identity in aa 1 - 857
+      2 			note	HMMPfam hit to PF01556, Chaperone DnaJ, C-terminal, score 1.2e-32
+      2 			note	HMMPfam hit to PF01556, Chaperone DnaJ, C-terminal, score 1.1e-76
+      2 			note	HMMPfam hit to PF00684, DnaJ central region, score 1.8e-50
+      2 			note	HMMPfam hit to PF00226, Heat shock protein DnaJ, N-terminal, score 5e-07
+      2 			note	HMMPfam hit to PF00226, Heat shock protein DnaJ, N-terminal, score 4e-40
+      2 			note	HMMPfam hit to PF00226, Heat shock protein DnaJ, N-terminal, score 3e-34
+      2 			note	HMMPfam hit to PF00226, Heat shock protein DnaJ, N-terminal, score 2.8e-12
+      2 			note	HMMPfam hit to PF00226, Heat shock protein DnaJ, N-terminal, score 1.1e-11
+      2 			note	HMMPfam hit to PF00226, Heat shock protein DnaJ, N-terminal, score 0.0017
+      2 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria~Geneious type: cds; label: dnaK CDS; factor; Folding and ushering proteins: Chaperones
+      2 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; Derived by automated computational analysis using gene prediction method: Protein Homology.
+      2 			note	functions as a co-chaperone with DnaK; involved in regulation of colanic acid capsule; inner membrane protein; dimerized via transmembrane domain; J-like domain is cytoplasmic and can functionally substitute for DnaJ; stimulates synthesis of colanic acid mucoid capsule through the RcsB/C signal transduction system; incomplete; partial in the middle of a contig; missing start and stop
+      2 			note	functions as a co-chaperone with DnaK; involved in regulation of colanic acid capsule; inner membrane protein; dimerized via transmembrane domain; J-like domain is cytoplasmic and can functionally substitute for DnaJ; stimulates synthesis of colanic acid mucoid capsule through the RcsB/C signal transduction system~Geneious type: cds; label: djlA CDS; phenotype; Not classified
+      2 			note	functions as a co-chaperone with DnaK; involved in regulation of colanic acid capsule; inner membrane protein; dimerized via transmembrane domain; J-like domain is cytoplasmic and can functionally substitute for DnaJ; stimulates synthesis of colanic acid mucoid capsule through the RcsB/C signal transduction system; Derived by automated computational analysis using gene prediction method: Protein Homology.
+      2 			note	factor; Folding and ushering proteins: Chaperones; heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; dnaK CDS
+      2 			note	factor; Folding and ushering proteins: Chaperones; chaperone Hsp40; co-chaperone with DnaK; Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins and by disaggregating proteins, also in an autonomous, dnaK-independent fashion; dnaJ CDS
+      2 			note	factor; Chaperones; curved DNA-binding protein; functions closelyrelated to DnaJ
+      2 			note	DnaJ domain protein; this gene contains a frame shift which may be the result of sequencing error
+      2 			note	DnaJ domain protein of Salmonella enterica UniRef RepID=B4SYL5_SALNS
+      2 			note	DnaJ-class molecular chaperone with C-terminal Zn finger domain
+      2 			note	DnaJ-class molecular chaperone CbpA
+      2 			note	DNA-binding protein that preferentially recognizes a curved DNA sequence. It is probably a functional analog of Dna; displays overlapping activities with DnaJ, but functions under different conditions, probably acting as a molecular chaperone in an adaptive response to environmental stresses other than heat shock. Lacks autonomous chaperone activit; binds native substrates and targets them for recognition by DnaK. Its activity is inhibited by the binding of CbpM; Contains 1 J domain
+      2 			note	curved DNA-binding protein; functions closely related to DnaJ; GO_component: GO:0005737 - cytoplasm; GO_process: GO:0006457 - protein folding
+      2 			note	C-terminal substrate binding domain of DnaJ and HSP40; Region: DnaJ_C; cl03262
+      2 			note	COG: KOG2813 Predicted molecular chaperone, contains DnaJ domain~Psort location: CytoplasmicMembrane, score:9.46
+      2 			note	COG:COG5407: Preprotein translocase subunit Sec63 [Intracellular trafficking and secretion].; Pfam:PF00226:DnaJ domain; ProSiteProfiles:PS50076:DnaJ domain; SUPERFAMILY:SSF46565:DnaJ domain
+      2 			note	COG: COG1076 DnaJ-domain-containing proteins 1~Psort location: Cytoplasmic, score:8.96
+      2 			note	COG: COG1076 DnaJ-domain-containing proteins 1
+      2 			note	COG:COG0484: DnaJ-class molecular chaperone with C-terminal Zn finger domain [Posttranslational modification protein turnover chaperones].; Pfam:PF00226:DnaJ domain; ProSiteProfiles:PS50076:DnaJ domain; SMART:SM00271:DnaJ domain; SUPERFAMILY:SSF46565:DnaJ domain
+      2 			note	chaperone protein DnaJ; Provisional; Region: PRK10767
+      2 			note	chaperone protein DnaJ; GrpE; stimulates ATPase activity of DnaK; (SW:DNAJ_SALTY)
+      2 			note	chaperone Hsp40; co-chaperone with DnaK; Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins and by disaggregating proteins, also in an autonomous, dnaK-independent fashion~Geneious type: cds; label: dnaJ CDS; factor; Folding and ushering proteins: Chaperones
+      2 			note	Associates with aggregated proteins, together with IbpB, to stabilize and protect them from irreversible denaturation and extensive proteolysis during heat shock and oxidative stress. Aggregated proteins bound to the IbpAB complex are more efficiently refolded and reactivated by the ATP-dependent chaperone systems ClpB and DnaK/DnaJ/GrpE. Its activity is ATP- independent; Belongs to the small heat shock protein (HSP20) family
+      2 			note	Associates with aggregated proteins, together with IbpA, to stabilize and protect them from irreversible denaturation and extensive proteolysis during heat shock and oxidative stress. Aggregated proteins bound to the IbpAB complex are more efficiently refolded and reactivated by the ATP-dependent chaperone systems ClpB and DnaK/DnaJ/GrpE. Its activity is ATP- independent; Belongs to the small heat shock protein (HSP20) family
+      2 			note	ab initio prediction:Prodigal:2.60; SUPERFAMILY:SSF46565:DnaJ domain
+      2 			gene_syn	dnaJ
+      2 			gene	DnaJ
+      2 			gene_desc	chaperone protein DnaJ
+      2 			function	DnaJ-class molecular chaperone
+      1 			prot_desc	part of multi-chaperone system with DnaK, DnaJ, and GrpE
+      1 			prot_desc	heat shock protein dnaJ
+      1 			prot_desc	DnaJ-like protein that functions as a co-chaperone of DnaK
+      1 			prot_desc	DnaJ-like protein
+      1 			prot_desc	DnaJ-like molecular chaperone protein
+      1 			prot_desc	DnaJ homologue that functions as a co-chaperone of DnaK
+      1 			prot_desc	DnaJ homolog that functions as a co-chaperone of DnaK
+      1 			prot_desc	DnaJ domain protein
+      1 			prot_desc	dnaJ-class molecular chaperone
+      1 			prot_desc	Chaperone protein DnaJ
+      1 			product	truncated dnaJ
+      1 			product	putative molecular chaperone, dnaJ-domain protein
+      1 			product	Putative DnaJ domain protein
+      1 			product	Putative DNAJ-Class molecular chaperone
+      1 			product	Molecular chaperone DnaJ (fragment)
+      1 			product	Molecular chaperone dnaj
+      1 			product	Heat shock protein DnaJ domain-containing protein
+      1 			product	heat shock protein, DnaJ and GrpE stimulates ATPase activity of DnaK
+      1 			product	Heat shock protein DnaJ
+      1 			product	Heat shock DnaJ domain protein
+      1 			product	fragment of putative DnaJ-class chaperone (part 2)
+      1 			product	fragment of putative DnaJ-class chaperone (part 1)
+      1 			product	DnaJ region
+      1 			product	DnaJ protein djlA
+      1 			product	DNAJ protein
+      1 			product	DnaJ-like, subfamily C, member 28, conserved domain protein
+      1 			product	dnaJ-like, subfamily C, member 28, conserved domain-containing protein
+      1 			product	dnaJ-like protein djlA domain protein
+      1 			product	DnaJ-like protein djla
+      1 			product	DnaJ-like protein co-chaperone protein Hsc20
+      1 			product	DNAj-like protein
+      1 			product	DnaJ like protein
+      1 			product	Dna-J like membrane chaperone protein,DnaJ-like protein DjlA,Dna-J like membrane chaperone protein,Preprotein translocase subunit Sec63,chaperone protein DnaJ,DnaJ domain
+      1 			product	DnaJ like chaperone
+      1 			product	DnaJ family putative molecular chaperone
+      1 			product	DnaJ family
+      1 			product	DnaJ-domain protein
+      1 			product	DnaJ domain-containing proteinChaperone
+      1 			product	DnaJ-class molecular chaperone with Zn finger domain
+      1 			product	DnaJ-class molecular chaperone domain protein
+      1 			product	DnaJ-class HSP40
+      1 			product	DnaJ central domain protein
+      1 			product	DnaJ central domain
+      1 			product	DnaJ and CbpA domain-containing protein
+      1 			product	curved DNA-binding protein, DnaJ-like proteinue that functions as a co-chaperone of DnaK
+      1 			product	curved DNA-binding protein CbpA, DnaJ homologue that functions as a co-chaperone of DnaK
+      1 			product	curved DNA-binding protein CbpA,Curved DNA-binding protein,curved DNA-binding protein CbpA,Preprotein translocase subunit Sec63,chaperone protein DnaJ,DnaJ C terminal domain
+      1 			product	conserved hypothetical protein (DnaJ-like protein: DNA damage inducible protein)
+      1 			product	co-chaperone of DnaK (DnaJ-like), implicated in regulation of colanic acid capsule
+      1 			product	chaperone protein DnaJ,Heat shock protein J,chaperone protein DnaJ,Preprotein translocase subunit Sec63,chaperone protein DnaJ,DnaJ C terminal domain
+      1 			product	chaperone protein dnaj
+      1 			product	chaperone HSP70, co-chaperone with DnaJ
+      1 			product	antitermination protein Q,chaperone protein DnaJ,Antitermination protein
+      1 			note	Zinc finger domain of DnaJ and HSP40; Region: DnaJ_zf; cl15637
+      1 			note	with DnaK and DnaJ acts in response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins; may act as a thermosensor; incomplete; partial in the middle of a contig; missing stop
+      1 			note	Uncharacterized protein yhdN;, Domain of unknown function (DUF1992), DnaJ homologue, subfamily C, member 28, conserved domain
+      1 			note	TIGRFAM:TIGR02349:Chaperone DnaJ; COG:COG0484: DnaJ-class molecular chaperone with C-terminal Zn finger domain [Posttranslational modification protein turnover chaperones].; Pfam:PF00226:DnaJ domain; Hamap:MF_01152:Chaperone DnaJ; PRINTS:PR00625:DnaJ domain; ProSitePatterns:PS00636:DnaJ domain, conserved site; ProSiteProfiles:PS50076:DnaJ domain; SMART:SM00271:DnaJ domain; SUPERFAMILY:SSF46565:DnaJ domain
+      1 			note	TIGRFAM:TIGR00714:Co-chaperone Hsc20; COG:COG1076: DnaJ-domain-containing protein 1 [Posttranslational modification protein turnover chaperones].; Pfam:PF07743:Co-chaperone HscB, C-terminal oligomerisation domain; Hamap:MF_00682:Co-chaperone Hsc20; ProSiteProfiles:PS50076:DnaJ domain; SMART:SM00271:DnaJ domain; SUPERFAMILY:SSF47144:Co-chaperone HscB, C-terminal oligomerisation domain
+      1 			note	TIGRFAM: co-chaperone Hsc20~PFAM: HSC20 oligomerisation; heat shock protein DnaJ domain protein~KEGG: eoj:ECO26_3574 DnaJ-like molecular chaperone specific for IscU~SMART: heat shock protein DnaJ domain protein
+      1 			note	TIGRFAM: co-chaperone Hsc20~PFAM: HSC20 oligomerisation; heat shock protein DnaJ domain protein~KEGG: eoh:ECO103_3044 co-chaperone HscB~SMART: heat shock protein DnaJ domain protein
+      1 			note	TIGRFAM: co-chaperone Hsc20~PFAM: HSC20 oligomerisation; heat shock protein DnaJ domain protein~KEGG: cko:CKO_00254 co-chaperone HscB~SMART: heat shock protein DnaJ domain protein
+      1 			note	TIGRFAM: co-chaperone Hsc20~PFAM: heat shock protein DnaJ domain protein; HSCB oligomerisation domain protein~KEGG: sbo:SBO_2551 hypothetical protein
+      1 			note	TIGRFAM: co-chaperone Hsc20~PFAM: heat shock protein DnaJ domain protein; HSC20 oligomerisation~KEGG: sbo:SBO_2551 hypothetical protein
+      1 			note	TIGRFAM: co-chaperone Hsc20~PFAM: heat shock protein DnaJ domain protein; HSC20 oligomerisation~KEGG: sbc:SbBS512_E2902 Fe-S protein assembly co-chaperone HscB
+      1 			note	TIGRFAM: chaperone protein DnaK~PFAM: Heat shock protein 70~KEGG: efe:EFER_0010 chaperone HSP70, co-chaperone with DnaJ
+      1 			note	TIGRFAM: chaperone protein DnaJ~PFAM: DnaJ central domain protein; heat shock protein DnaJ domain protein; chaperone DnaJ domain protein~KEGG: ssn:SSON_0015 chaperone with DnaK
+      1 			note	TIGRFAM: chaperone protein DnaJ~PFAM: DnaJ central domain protein; heat shock protein DnaJ domain protein; chaperone DnaJ domain protein~KEGG: sfv:SFV_0013 chaperone protein DnaJ
+      1 			note	TIGRFAM: chaperone protein DnaJ~PFAM: DnaJ central domain protein; heat shock protein DnaJ domain protein; chaperone DnaJ domain protein~KEGG: sbo:SBO_0016 chaperone with DnaK
+      1 			note	TIGRFAM: chaperone protein DnaJ~PFAM: chaperone DnaJ domain protein; DnaJ central domain protein; heat shock protein DnaJ domain protein~KEGG: enc:ECL_00828 chaperone HSP40~SMART: heat shock protein DnaJ domain protein
+      1 			note	SSH fragment SPL00301; similar to Mycoplasma penetrans DnaJ encoded by GenBank Accession number AP004174
+      1 			note	SMART: Heat shock protein DnaJ, N-terminal~TIGRFAM: Co-chaperone Hsc20~KEGG: ent:Ent638_3024 co-chaperone HscB~HAMAP: Co-chaperone protein hscB~PFAM: Heat shock cognate protein B, C-terminal oligomerisation; Heat shock protein DnaJ, N-terminal
+      1 			note	SMART: Heat shock protein DnaJ, N-terminal~TIGRFAM: Chaperone DnaJ~KEGG: enc:ECL_00828 chaperone HSP40~HAMAP: Chaperone protein dnaJ~PFAM: Chaperone DnaJ, C-terminal; Heat shock protein DnaJ, cysteine-rich region; Heat shock protein DnaJ, N-terminal
+      1 			note	SMART: heat shock protein DnaJ domain protein~TIGRFAM: co-chaperone Hsc20~KEGG: enc:ECL_03876 co-chaperone HscB~HAMAP : Co-chaperone protein hscB~PFAM: HSC20 oligomerisation, heat shock protein DnaJ domain protein
+      1 			note	SMART: heat shock protein DnaJ domain protein~TIGRFAM: chaperone protein DnaJ~KEGG: enc:ECL_00828 chaperone HSP40~HAMAP : Chaperone protein dnaJ~PFAM: heat shock protein DnaJ domain protein, DnaJ central domain protein, chaperone DnaJ domain protein
+      1 			note	similar to Heat shock protein DnaJ domain protein of Enterobacteriaceae UniRef RepID=A4WEQ1_ENT38
+      1 			note	Similar to Escherichia coli DnaJ-like protein DjlA DJLA SW:DJLA_ECOLI (P31680) fasta scores: E(): 0, 95.6% id in 271 aa, and to Coxiella burnetii DnaJ-like protein DjlA SW:DJLA_COXBU (Q45885) fasta scores: E(): 0, 41.6% id in 279 aa;~Orthologue of E. coli yabH (DJLA_ECOLI); Fasta hit to DJLA_ECOLI (271 aa), 96% identity in 271 aa overlap
+      1 			note	similar to Dna-J like membrane chaperone protein PRK09430~similar to DnaJ-like protein djlA of Gammaproteobacteria UniRef RepID=DJLA_ECOL6
+      1 			note	similar to DnaJ-domain-containing proteins 1 COG1076~similar to putative ATPase involved in DNA repair of Salmonella enterica subsp. enterica serovar Typhi str. M223 UniRef RepID=UPI000191353B
+      1 			note	similar to DnaJ-class molecular chaperone; plays crucial roles in protein translation, folding, unfolding, translocation, and degradation
+      1 			note	similar to DnaJ-class molecular chaperone; misc
+      1 			note	similar to chaperone protein DnaJ PRK10767~similar to Chaperone protein dnaJ of Proteobacteria UniRef RepID=DNAJ_VIBVY
+      1 			note	similar to c2163 hypothetical protein of Escherichia coli strain CFT073 in NP_754057; contains short conserved domain smart00271 DnaJ; molecular chaperone associated with hsp70 heat-schock system; Orf1; p769
+      1 			note	similar to ATP-binding subunits of Clp protease and DnaK/DnaJ chaperones COG0542~similar to ATPase AAA-2 of Bacteria UniRef RepID=Q1H249_METFK
+      1 			note	similar to ATP-binding subunits of Clp protease and DnaK/DnaJ chaperones COG0542~similar to Aec27 of cellular organisms UniRef RepID=Q6TKU1_ECOLX
+      1 			note	predicted DnaJ family chaperone DjlB, N-terminal part
+      1 			note	predicted DnaJ family chaperone DjlB, C-terminal part
+      1 			note	predicted based on similarity to TIGRFAM DnaJ_bact and related proteins in nr
+      1 			note	potential frameshift: common BLAST hit: gi|386589973|ref|YP_006086373.1| DnaJ-like protein DjlA
+      1 			note	potential frameshift: common BLAST hit: gi|386589897|ref|YP_006086297.1| Chaperone protein DnaJ
+      1 			note	potential frameshift: common BLAST hit: gi|238893002|ref|YP_002917736.1| chaperone protein DnaJ
+      1 			note	potential frameshift: common BLAST hit: gi|198243611|ref|YP_002214646.1| DnaJ domain-containing protein
+      1 			note	potential frameshift: common BLAST hit: gi|198241937|ref|YP_002214644.1| DnaJ domain-containing protein
+      1 			note	potential frameshift: common BLAST hit: gi|194449364|ref|YP_002044691.1| DnaJ domain-containing protein
+      1 			note	potential frameshift: common BLAST hit: gi|194443702|ref|YP_002039241.1| molecular chaperone DnaJ
+      1 			note	pfam_scan;Pfam:PF07743; E()=7.2E-22;score=77.0;query87-162;description=HSCB_C;~pfam_scan;Pfam:PF00226; E()=3.9E-9;score=35.8;query 2-70;description=DnaJ
+      1 			note	pfam_scan;Pfam:PF01556; E()=2.9E-24;score=84.4;query190-282;description=DnaJ_C;~pfam_scan;Pfam:PF00226; E()=1.1E-23;score=82.2;query5-66;description=DnaJ
+      1 			note	pfam_scan;Pfam:PF01556; E()=1.5E-31;score=107.8;query 245-343;description=DnaJ_C;~pfam_scan;Pfam:PF00226; E()=7.4E-29;score=98.6;query5-67;description=DnaJ;~pfam_scan;Pfam:PF00684; E()=5.5E-19;score=66.9;query134-207;description=DnaJ_CXXCXGXG
+      1 			note	pfam_scan;Pfam:PF00226; E()=1.8E-12;score=46.4;query207-266;description=DnaJ;~pfam_scan;Pfam:PF05099; E()=1.7E-7;score=30.7;query 52-170;description=TerB;~tmhmm; query 1-271
+      1 			note	pfam_scan;Pfam:PF00226; E()=1.6E-5;score=24.2;query 4-47;description=DnaJ;~tmhmm; query 1-478
+      1 			note	pfam_scan;Pfam:PF00226; E()=1.5E-4;score=21.2;query 5-47;description=DnaJ
+      1 			note	Pfam:PF09350:DnaJ homologue, subfamily C, member 28, conserved domain
+      1 			note	Pfam match to entry PF01556 DnaJ_C, DnaJ C terminal region, score 264.30, E-value 1.6e-75
+      1 			note	Pfam match to entry PF01556 DnaJ_C, DnaJ C terminal region, score 114.20, E-value 2.5e-30
+      1 			note	Pfam match to entry PF00684 DnaJ_CXXCXGXG, DnaJ central domain (4 repeats), score 174.90, E-value 1.4e-48
+      1 			note	Pfam match to entry PF00226 DnaJ, DnaJ domain, score 40.60, E-value 3.5e-08
+      1 			note	Pfam match to entry PF00226 DnaJ, DnaJ domain, score 27.00, E-value 4e-05
+      1 			note	Pfam match to entry PF00226 DnaJ, DnaJ domain, score 143.70, E-value 3.2e-39
+      1 			note	Pfam match to entry PF00226 DnaJ, DnaJ domain, score 119.80, E-value 5.1e-32
+      1 			note	Pfam: HSCB C-terminal oligomerisation domain; SMART: DnaJ molecular chaperone homology domain; TIGRFAM: hscB: Fe-S protein assembly co-chaperone HscB; Pfam: DnaJ domain
+      1 			note	PFAM: Heat shock protein DnaJ, N-terminal~KEGG: enc:ECL_04453 heat shock protein DnaJ domain-containing protein
+      1 			note	PFAM: heat shock protein DnaJ domain protein~SMART: heat shock protein DnaJ domain protein~KEGG: ssn:SSON_0063 DNA-J like membrane chaperone protein
+      1 			note	PFAM: heat shock protein DnaJ domain protein~SMART: heat shock protein DnaJ domain protein~KEGG: kpe:KPK_4690 Dna-J like membrane chaperone protein
+      1 			note	PFAM: heat shock protein DnaJ domain protein~KEGG: stm:STM0094 DnaJ like chaperone protein
+      1 			note	PFAM: heat shock protein DnaJ domain protein~KEGG: sec:SC0604 putative ATPase involved in DNA repair
+      1 			note	PFAM: heat shock protein DnaJ domain protein~KEGG: sdy:SDY_0080 putative DNA-binding protein
+      1 			note	PFAM: heat shock protein DnaJ domain protein~KEGG: sdy:SDY_0080 Dna-J like membrane chaperone protein
+      1 			note	PFAM: heat shock protein DnaJ domain protein~KEGG: ctu:Ctu_10100 hypothetical protein
+      1 			note	PFAM: heat shock protein DnaJ domain protein; chaperone DnaJ domain protein~KEGG: sbo:SBO_2231 curved DNA-binding protein CbpA
+      1 			note	PFAM: heat shock protein DnaJ domain protein; chaperone DnaJ domain protein~KEGG: sbo:SBO_2231 curved DNA-binding protein
+      1 			note	PFAM: DnaJ-like, subfamily C, domain-containing protein~KEGG: enc:ECL_04670 hypothetical protein
+      1 			note	PFAM: DnaJ homologue, subfamily C, member 28, conserved domain~KEGG: kpe:KPK_0423 hypothetical protein
+      1 			note	PFAM: DnaJ homologue, subfamily C, member 28, conserved domain~KEGG: eok:G2583_4011 hypothetical protein
+      1 			note	PFAM: DnaJ homologue, subfamily C, member 28, conserved domain~KEGG: eoh:ECO103_4025 hypothetical protein
+      1 			note	PFAM: DnaJ homologue, subfamily C, member 28, conserved domain~KEGG: enc:ECL_04670 hypothetical protein
+      1 			note	PFAM: DnaJ homologue, subfamily C, member 28, conserved domain~KEGG: cko:CKO_04706 hypothetical protein
+      1 			note	Pfam: DnaJ domain; PRINTS: DnaJ domain signature; SMART: DnaJ molecular chaperone homology domain; Pfam: Tellurite resistance protein TerB
+      1 			note	Pfam: DnaJ domain; Pfam: DnaJ C terminal domain; PRINTS: DnaJ domain signature; SMART: DnaJ molecular chaperone homology domain; TIGRFAM: DnaJ_bact: chaperone protein DnaJ; Pfam: DnaJ central domain
+      1 			note	PFAM: DnaJ domain; HSCB C-terminal oligomerisation domain~TIGRFAM: Fe-S protein assembly co-chaperone HscB
+      1 			note	PFAM: DnaJ domain; DnaJ C terminal domain
+      1 			note	PFAM: DnaJ domain; DnaJ central domain; DnaJ C terminal domain~TIGRFAM: chaperone protein DnaJ
+      1 			note	PFAM: chaperone DnaJ domain protein; heat shock protein DnaJ domain protein~SMART: heat shock protein DnaJ domain protein~KEGG: kpe:KPK_5157 curved DNA-binding protein CbpA
+      1 			note	PFAM: chaperone DnaJ domain protein; heat shock protein DnaJ domain protein~SMART: heat shock protein DnaJ domain protein~KEGG: elf:LF82_0268 curved DNA-binding protein
+      1 			note	PFAM: AAA ATPase, central domain protein; Clp N terminal domain protein; ATPase associated with various cellular activities, AAA_5; ATPase AAA-2 domain protein~SMART: AAA ATPase~KEGG: sec:SC2663 ATP-dependent protease, Hsp 100, part of novel multi-chaperone system with DnaK, DnaJ, and GrpE
+      1 			note	part of multi-chaperone system with DnaK, DnaJ, and GrpE; COG0542
+      1 			note	Note the PFam match to heat shock protein DnaJ motif and the similarity to the upstream CDS SEN0625
+      1 			note	Note the C-terminal possible membrane-spanningdomain, the similarity to the downstream CDS SEN0627 andthe PFam match to heat shock protein DnaJ motif
+      1 			note	Note the C-terminal possible membrane-spanning domain, the similarity to the downstream CDS SEN0627 and the PFam match to heat shock protein DnaJ motif
+      1 			note	Negative regulator of class I heat shock genes (grpE-dnaK-dnaJ and groELS operons). Prevents heat-shock induction of these operons; incomplete; partial in the middle of a contig; missing start
+      1 			note	molecular chaperone DnaJ
+      1 			note	manually curated~TIGRFAM: cell division protein FtsN~KEGG: sbc:SbBS512_E4415 essential cell division protein FtsN~PFAM: Sporulation domain-containing protein; chaperone DnaJ domain protein
+      1 			note	manually curated~PFAM: heat shock protein DnaJ domain protein~KEGG: sdy:SDY_0080 Dna-J like membrane chaperone protein~SMART: heat shock protein DnaJ domain protein
+      1 			note	Laminin subunit gamma-1; Laminin B2 chain; Flags: Precursor;, Heat shock protein DnaJ, N-terminal
+      1 			note	KEGG: shn:Shewana3_0875 0.0084 formate dehydrogenase K00122~COG: COG2214 DnaJ-class molecular chaperone~Psort location: Cytoplasmic, score:9.26
+      1 			note	KEGG: sdy:SDY_0080 Dna-J like membrane chaperone protein~PFAM: heat shock protein DnaJ domain protein~SMART: heat shock protein DnaJ domain protein
+      1 			note	KEGG: sbc:SbBS512_E4415 essential cell division protein FtsN~TIGRFAM: cell division protein FtsN~PFAM: Sporulation domain protein; chaperone DnaJ domain protein
+      1 			note	KEGG: sbc:SbBS512_E2902 Fe-S protein assembly co-chaperone HscB~TIGRFAM: co-chaperone Hsc20~PFAM: HSC20 oligomerisation; heat shock protein DnaJ domain protein~SMART: heat shock protein DnaJ domain protein
+      1 			note	KEGG: ptr:452298 2.0e-05 LOC452298; similar to rho/rac-interacting citron kinase K08282~COG: COG1076 DnaJ-domain-containing proteins 1~Psort location: Cytoplasmic, score:8.96
+      1 			note	KEGG: kpu:KP1_4111 chaperone protein~TIGRFAM: co-chaperone Hsc20~PFAM: HSC20 oligomerisation; heat shock protein DnaJ domain protein~SMART: heat shock protein DnaJ domain protein
+      1 			note	KEGG: kpe:KPK_4741 chaperone protein DnaJ~TIGRFAM: chaperone protein DnaJ~PFAM: chaperone DnaJ domain protein; DnaJ central domain protein; heat shock protein DnaJ domain protein~SMART: heat shock protein DnaJ domain protein
+      1 			note	KEGG: eok:G2583_1234 curved DNA-binding protein~PFAM: heat shock protein DnaJ domain protein; chaperone DnaJ domain protein~SMART: heat shock protein DnaJ domain protein
+      1 			note	KEGG: efe:EFER_0011 chaperone HSP40, co-chaperone with DnaK~TIGRFAM: chaperone protein DnaJ~PFAM: chaperone DnaJ domain protein; heat shock protein DnaJ domain protein; DnaJ central domain protein~SMART: heat shock protein DnaJ domain protein
+      1 			note	KEGG: dre:562769 9.7e-06 LOC562769; similar to Serine/threonine-protein kinase 10 (Lymphocyte-oriented kinase) K08837~COG: COG1076 DnaJ-domain-containing proteins 1~Psort location: Cytoplasmic, score:8.96
+      1 			note	KEGG: dre:562769 1.9e-06 LOC562769; similar to Serine/threonine-protein kinase 10 (Lymphocyte-oriented kinase) K08837~COG: COG1076 DnaJ-domain-containing proteins 1~Psort location: Cytoplasmic, score:8.96
+      1 			note	KEGG: dme:Dmel_CG7130 2.3e-14 CG7130 gene product from transcript CG7130-RA; K01509 adenosinetriphosphatase~Psort location: Cytoplasmic, score: 9.97~locus tag in AE006468 is STM0013; dnaJ
+      1 			note	KEGG: dme:Dmel_CG7130 2.2e-14 CG7130 gene product from transcript CG7130-RA; K01509 adenosinetriphosphatase~Psort location: Cytoplasmic, score: 9.97~locus tag in AE006468 is STM0013; dnaJ
+      1 			note	KEGG: cme:CMJ043C 6.0e-11 phycocyanobilin lyase alpha subunit K02288~COG: COG0484 DnaJ-class molecular chaperone with C-terminal Zn finger domain~Psort location: Cytoplasmic, score:9.97
+      1 			note	KEGG: cme:CMJ043C 3.7e-11 phycocyanobilin lyase alpha subunit K02288~COG: COG0484 DnaJ-class molecular chaperone with C-terminal Zn finger domain~Psort location: Cytoplasmic, score:9.97
+      1 			note	KEGG: cme:CMJ043C 3.4e-11 phycocyanobilin lyase alpha subunit K02288~COG: COG0484 DnaJ-class molecular chaperone with C-terminal Zn finger domain~Psort location: Cytoplasmic, score:9.97
+      1 			note	KEGG: cme:CMJ043C 1.3e-10 phycocyanobilin lyase alpha subunit K02288~COG: COG0484 DnaJ-class molecular chaperone with C-terminal Zn finger domain~Psort location: Cytoplasmic, score:9.97
+      1 			note	KEGG: cko:CKO_03325 Dna-J like membrane chaperone protein~PFAM: heat shock protein DnaJ domain protein~SMART: heat shock protein DnaJ domain protein
+      1 			note	KEGG: apb:SAR116_1614 1.3e-30 molecular chaperone, DnaJ family K03686~Psort location: Cytoplasmic, score: 9.97
+      1 			note	IPR001623: Heat shock protein DnaJ, N-terminal; IPR003095: Heat shock protein DnaJ
+      1 			note	IPR000345: Cytochrome c heme-binding site; IPR001305: DnaJ central domain (CXXCXGXG); IPR001623: Heat shock protein DnaJ, N-terminal;IPR003095: Heat shock protein DnaJ
+      1 			note	HMMPfam hit to PF01556, DnaJ C terminal region, score 3.3e-76
+      1 			note	HMMPfam hit to PF01556, DnaJ C terminal region, score 1.4e-35
+      1 			note	HMMPfam hit to PF01556, Chaperone DnaJ, C-terminal,score 2.4e-75
+      1 			note	HMMPfam hit to PF01556, Chaperone DnaJ, C-terminal,score 1.1e-35
+      1 			note	HMMPfam hit to PF00684, DnaJ central region, score 4e-50
+      1 			note	HMMPfam hit to PF00684, DnaJ central domain (4 repeats), score 1.1e-49
+      1 			note	HMMPfam hit to PF00226, Heat shock protein DnaJ, N-terminal, score 5.7e-16
+      1 			note	HMMPfam hit to PF00226, Heat shock protein DnaJ,N-terminal, score 3.9e-34
+      1 			note	HMMPfam hit to PF00226, Heat shock protein DnaJ,N-terminal, score 2.3e-40
+      1 			note	HMMPfam hit to PF00226, Heat shock protein DnaJ,N-terminal, score 2.3e-12
+      1 			note	HMMPfam hit to PF00226, Heat shock protein DnaJ,N-terminal, score 1e-12
+      1 			note	HMMPfam hit to PF00226, DnaJ domain, score 5.8e-41
+      1 			note	HMMPfam hit to PF00226, DnaJ domain, score 5.1e-11
+      1 			note	HMMPfam hit to PF00226, DnaJ domain, score 4.2e-12
+      1 			note	HMMPfam hit to PF00226, DnaJ domain, score 3.8e-34
+      1 			note	HMMPfam hit to PF00226, DnaJ domain, score 1.9e-14
+      1 			note	HMMPfam hit to PF00226, DnaJ domain, score 0.0038
+      1 			note	HMMPfam hit to PF00226, DnaJ domain, score 0.00052
+      1 			note	HMMPfam hit to PF00226, DnaJ domain, score 0.00028
+      1 			note	Heat shock protein DnaJ-like protein DjlA, Protein of unknown function (DUF533); High confidence in function and specificity
+      1 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; internal stop; incomplete; too short partial abutting assembly gap; missing start and stop
+      1 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; internal stop; incomplete; missing start and stop
+      1 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; frameshifted; too many ambiguous residues; incomplete; missing start and stop
+      1 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; frameshifted; too many ambiguous residues
+      1 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; frameshifted; incomplete; too short partial abutting assembly gap; missing start and stop
+      1 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; frameshifted; incomplete; missing start and stop
+      1 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; frameshifted; incomplete; missing start
+      1 			note	heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria; dnaK
+      1 			note	HAMAP: DnaJ-like protein djlA~PFAM: Heat shock protein DnaJ, N-terminal~KEGG: enc:ECL_00853 DnaJ domain protein~SMART: Heat shock protein DnaJ, N-terminal
+      1 			note	HAMAP : DnaJ-like protein djlA~PFAM: heat shock protein DnaJ domain protein, Tellurite resistance TerB~KEGG: enc:ECL_00853 DnaJ domain protein~SMART: heat shock protein DnaJ domain protein
+      1 			note	functions as a co-chaperone with DnaK; involved in regulation of colanic acid capsule; inner membrane protein; dimerized via transmembrane domain; J-like domain is cytoplasmic and can functionally substitute for DnaJ; stimulates synthesis of colanic acid mucoid capsule through the RcsB/C signal transduction system; incomplete; partial in the middle of a contig; missing stop
+      1 			note	functions as a co-chaperone with DnaK; involved in regulation of colanic acid capsule; inner membrane protein; dimerized via transmembrane domain; J-like domain is cytoplasmic and can functionally substitute for DnaJ; stimulates synthesis of colanic acid mucoid capsule through the RcsB/C signal transduction system; incomplete; partial in the middle of a contig; missing start
+      1 			note	functions as a co-chaperone with DnaK; involved in regulation of colanic acid capsule; inner membrane protein; dimerized via transmembrane domain; J-like domain is cytoplasmic and can functionally substitute for DnaJ; stimulates synthesis of colanic acid mucoid capsule through the RcsB/C signal transduction system; frameshifted; incomplete; too short partial abutting assembly gap; missing start
+      1 			note	functions as a co-chaperone with DnaK; involved in regulation of colanic acid capsule; inner membrane protein; dimerized via transmembrane domain; J-like domain is cytoplasmic and can functionally substitute for DnaJ; stimulates synthesis of colanic acid mucoid capsule through the RcsB/C signal transduction system; djlA
+      1 			note	functions as a co-chaperone with DnaK; involved in regulation of colanic acid capsule; inner membrane protein; dimerized via transmembrane domain; J-like domain is cytoplasmic and can functionally substitute for DnaJ; stimulates synthesis of colanic acid
+      1 			note	functions as a co-chaperone of DnaK; functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock
+      1 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; label: cbpA CDS; factor; Folding and ushering proteins: Chaperones
+      1 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; internal stop
+      1 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock~Geneious type: cds; label: chpA CDS; factor; Folding and ushering proteins: Chaperones
+      1 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; frameshifted; incomplete; too short partial abutting assembly gap; missing start
+      1 			note	functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; curved DNA-binding protein
+      1 			note	''functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock''
+      1 			note	Fasta hit to DNAJ_ECOLI (375 aa), 35% identity in 353 aa overlap;~Orthologue of E. coli cbpA (CBPA_ECOLI); Fasta hit to CBPA_ECOLI (306 aa), 88% identity in 306 aa overlap
+      1 			note	Fasta hit to CBPA_ECOLI (306 aa), 35% identity in 358 aa overlap;~Orthologue of E. coli dnaJ (DNAJ_ECOLI); Fasta hit to DNAJ_ECOLI (375 aa), 95% identity in 378 aa overlap
+      1 			note	factor; Folding and ushering proteins: Chaperones; functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; chpA CDS
+      1 			note	factor; Folding and ushering proteins: Chaperones; functional analog of DnaJ; co-chaperone with DnaK, molecular chaperone in an adaptive response to environmental stresses other than heat shock; cbpA CDS
+      1 			note	factor; Chaperones; residues 1 to 306 of 306 are 99.34 pct identical to residues 1 to 306 of 306 from Escherichia coli K-12 : B1000; functions closely related to DnaJ
+      1 			note	Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; PubMedId : 10574456, 12183460; Product type pf : putative factor;fragment of putative DnaJ-class chaperone (part 2)
+      1 			note	Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; PubMedId : 10574456, 12183460; Product type pf : putative factor;fragment of putative DnaJ-class chaperone (part 1)
+      1 			note	DnaJ molecular chaperone homology domain; Region: DnaJ; smart00271
+      1 			note	DnaJ-like protein that functions as a co-chaperone of DnaK
+      1 			note	DnaJ-like protein djlA;, Heat shock protein DnaJ, N-terminal
+      1 			note	DnaJ-like protein DjlA
+      1 			note	DnaJ-like molecular chaperone protein
+      1 			note	'DNAJ_ECOLI (375 aa), 95% identity in 378 aa overlap
+      1 			note	DnaJ-domain-containing proteins 1
+      1 			note	DnaJ-class molecular chaperone;~clinical isolate;~identified by MetaGeneAnnotator; putative;~replication protein; Provisional
+      1 			note	DnaJ central domain; Region: DnaJ_CXXCXGXG; pfam00684
+      1 			note	DnaJ central domain (4 repeats)
+      1 			note	DNA biosynthesis; heat shock protein 70; assists in folding of nascent polypeptide chains; refolding of misfolded proteins; utilizes ATPase activity to help fold; co-chaperones are DnaJ and GrpE; multiple copies in some bacteria
+      1 			note	DjlB is an uncharacterized DnaJ homolog (J domain-containing protein, JDP) that is a predicted HscC co-chaperone stimulating its chaperone partner's ATPase activity; Derived by automated computational analysis using gene prediction method: Protein Homology.
+      1 			note	curved DNA-binding protein; functions closely related to DnaJ; GO_component: GO:0005737 -cytoplasm; GO_process: GO:0006457 -protein folding
+      1 			note	corresponds to STM0658 putative molecular chaperone, DnaJ family
+      1 			note	contains two CxxC motifs plus another 2 cys residues; includes CxxCxGxG motif similar to the cysteine rich domain of heat shock protein DnaJ (PF00684); Derived by automated computational analysis using gene prediction method: Protein Homology.
+      1 			note	contains conserved domain DnaJ_zf (cd10719), zinc finger domain of DnaJ; central/middle or CxxCxGxG-motif containing domain of DnaJ. Derived by automated computational analysis using gene prediction method: Protein Homology.
+      1 			note	conserved domain DjlA (COG1076), DnaJ-domain-containing proteins 1; Derived by automated computational analysis using gene prediction method: Protein Homology.
+      1 			note	COG: COG1076 DnaJ-domain-containing proteins 1~Psort location: Cytoplasmic, score:9.12
+      1 			note	COG:COG1076: DnaJ-domain-containing protein 1 [Posttranslational modification protein turnover chaperones].; Pfam:PF00226:DnaJ domain; Hamap:MF_01153:DnaJ-like protein DjlA; PRINTS:PR00625:DnaJ domain; ProSiteProfiles:PS50076:DnaJ domain; SMART:SM00271:DnaJ domain; SUPERFAMILY:SSF46565:DnaJ domain
+      1 			note	COG:COG0484: DnaJ-class molecular chaperone with C-terminal Zn finger domain [Posttranslational modification protein turnover chaperones].; Pfam:PF03589:Antitermination protein; SUPERFAMILY:SSF57938:Heat shock protein DnaJ, cysteine-rich domain
+      1 			note	COG:COG0484: DnaJ-class molecular chaperone with C-terminal Zn finger domain [Posttranslational modification protein turnover chaperones].; Pfam:PF00226:DnaJ domain; Hamap:MF_01154:DNA-binding protein, curved-DNA; Pfam:PF00226:DnaJ domain; PRINTS:PR00625:DnaJ domain; ProSitePatterns:PS00636:DnaJ domain, conserved site; ProSiteProfiles:PS50076:DnaJ domain; SMART:SM00271:DnaJ domain; SUPERFAMILY:SSF46565:DnaJ domain
+      1 			note	COG2214; DnaJ-class moleculare chaperone
+      1 			note	COG0484: DnaJ-class molecular chaperone with C-terminal Zn finger domain protein
+      1 			note	co-chaperone DjlC is a tail-anchored membrane protein that stimulates the ATPase activity of the DnaK-like chaperone HscC(Hsc62); conserved domain DnaJ (smart00271), DnaJ molecular chaperone homology domain; Derived by automated computational analysis using gene prediction method: Protein Homology.
+      1 			note	chaperone protein DnaJ (Heat shock protein J) (HSP40); identified by match to protein family HMM PF00226; match to protein family HMM PF01556
+      1 			note	Chaperone protein dnaJ;, DnaJ domain, DnaJ_bact: chaperone protein DnaJ, Molecular chaperone, heat shock protein, Hsp40, DnaJ
+      1 			note	Chaperone protein dnaJ;, DnaJ C terminal region, DnaJ_bact: chaperone protein DnaJ, Chaperone DnaJ
+      1 			note	Chaperone protein dnaJ;, Antitermination protein
+      1 			note	Chaperone protein DnaJ
+      1 			note	chaperone Hsp40; co-chaperone with DnaK; Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins and by disaggregating proteins, also in an autonomous, dnaK-independent fashion; dnaJ
+      1 			note	CbpA; similar to DnaJ
+      1 			note	ab initio prediction:Prodigal:2.60; SUPERFAMILY:SSF57938:Heat shock protein DnaJ, cysteine-rich domain
+      1 			gene	dnaJ_5
+      1 			gene_desc	putative DnaJ-class molecular chaperone CbpA
+      1 			gene_desc	molecular chaperone, DnaJ family
+      1 			gene_desc	DnaJ domain protein
+      1 			gene_desc	DnaJ-class molecular chaperone CbpA
+      1 			gene_desc	dnaJ-class molecular chaperone CbpA
+      1 			function	Part of a stress-induced multi-chaperone system, it is involved in the recovery of the cell from heat-induced damage, in cooperation with DnaK, DnaJ and GrpE. Acts before DnaK, in the processing of protein aggregates. Protein binding stimulates the ATPase activity; ATP hydrolysis unfolds the denatured protein aggregates, which probably helps expose new hydrophobic binding sites on the surface of ClpB-bound aggregates, contributing to the solubilization and refolding of denatured protein aggregates by DnaK (By similarity). Required for colonization of the gastrointestinal tract, probably due to protection from a combination of stress factors.
+      1 			function	Part of a stress-induced multi-chaperone system, it is involved in the recovery of the cell from heat-induced damage, in cooperation with DnaK, DnaJ and GrpE. Acts before DnaK, in the processing of protein aggregates. Protein binding stimulates the ATPase activity; ATP hydrolysis unfolds the denatured protein aggregates, which probably helps expose new hydrophobic binding sites on the surface of ClpB-bound aggregates, contributing to the solubilization and refolding of denatured protein aggregates by DnaK
+      1 			function	Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins, in association with DnaK and GrpE. It is the nucleotide exchange factor for DnaK and may function as a thermosensor. Unfolded proteins bind initially to DnaJ; upon interaction with the DnaJ-bound protein, DnaK hydrolyzes its bound ATP, resulting in the formation of a stable complex. GrpE releases ADP from DnaK; ATP binding to DnaK triggers the release of the substrate protein, thus completing the reaction cycle. Several rounds of ATP-dependent interactions between DnaJ, DnaK and GrpE are required for fully efficient folding
+      1 			function	Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins, in association with DnaK and GrpE. It is the nucleotide exchange factor for DnaK and may function as a thermosensor. Unfolded proteins bind initially to DnaJ; upon interaction with the DnaJ-bound protein, DnaK hydrolyzes its bound ATP, resulting in the formation of a stable complex. GrpE releases ADP from DnaK; ATP binding to DnaK triggers the release of the substrate protein, thus completing the reaction cycle. Several rounds of ATP- dependent interactions between DnaJ, DnaK and GrpE are required for fully efficient folding.
+      1 			function	Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins and by disaggregating proteins, also in an autonomous, DnaK-independent fashion. Unfolded proteins bind initially to DnaJ; upon interaction with the DnaJ-bound protein, DnaK hydrolyzes its bound ATP, resulting in the formation of a stable complex. GrpE releases ADP from DnaK; ATP binding to DnaK triggers the release of the substrate protein, thus completing the reaction cycle. Several rounds of ATP-dependent interactions between DnaJ, DnaK and GrpE are required for fully efficient folding. Also involved, together with DnaK and GrpE, in the DNA replication of plasmids through activation of initiation proteins.
+      1 			function	Interacts with DnaK and GrpE to disassemble a protein complex at the origins of replication of phage lambda and several plasmids. Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins and by disaggregating proteins, also in an autonomous, DnaK-independent fashion. Unfolded proteins bind initially to DnaJ; upon interaction with the DnaJ-bound protein, DnaK hydrolyzes its bound ATP, resulting in the formation of a stable complex. GrpE releases ADP from DnaK; ATP binding to DnaK triggers the release of the substrate protein, thus completing the reaction cycle. Several rounds of ATP-dependent interactions between DnaJ, DnaK and GrpE are required for fully efficient folding
+      1 			function	Associates with aggregated proteins, together with IbpB, to stabilize and protect them from irreversible denaturation and extensive proteolysis during heat shock and oxidative stress. Aggregated proteins bound to the IbpAB complex are more efficiently refolded and reactivated by the ATP-dependent chaperone systems ClpB and DnaK/DnaJ/GrpE. Its activity is ATP- independent.
+      1 			function	Associates with aggregated proteins, together with IbpA, to stabilize and protect them from irreversible denaturation and extensive proteolysis during heat shock and oxidative stress. Aggregated proteins bound to the IbpAB complex are more efficiently refolded and reactivated by the ATP-dependent chaperone systems ClpB and DnaK/DnaJ/GrpE. Its activity is ATP- independent.
+      1 >Feature gb|M12565.1|ECODNAJ
+      1 >Feature gb|M12544.1|ECODNAJK
