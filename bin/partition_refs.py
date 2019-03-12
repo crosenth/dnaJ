@@ -14,12 +14,20 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument('fasta')
     p.add_argument('info')
-    p.add_argument('--out', default=sys.stdout, type=argparse.FileType('w'))
+    p.add_argument(
+        'fasta_out', default=sys.stdout, type=argparse.FileType('w'))
+    p.add_argument(
+        'info_out', default=sys.stdout, type=argparse.FileType('w'))
     args = p.parse_args()
-    seqnames = set(i['seqname'] for i in csv.DictReader(open(args.info)))
+    info_csv = csv.DictReader(open(args.info))
+    info = {r['seqname']: r for r in info_csv}
+    info_out = csv.DictWriter(args.info_out, fieldnames=info_csv.fieldnames)
+    info_out.writeheader()
     for s in SeqIO.parse(args.fasta, 'fasta'):
-        if s.id in seqnames:
-            args.out.write('>{}\n{}\n'.format(s.description, s.seq))
+        if s.id in info:
+            args.fasta_out.write('>{}\n{}\n'.format(s.description, s.seq))
+            info_out.writerow(info[s.id])
+            del info[s.id]
 
 
 if __name__ == '__main__':
