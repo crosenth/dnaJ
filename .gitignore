@@ -1,2 +1,4 @@
-output
+output*
 __pycache__
+dnaj-env
+.sconsign.dblite
