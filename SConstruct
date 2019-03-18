@@ -284,10 +284,18 @@ fa = env.Command(
     source=[named_fa, info],
     action='partition_seqs.py --out $TARGET $SOURCES')
 
-species_fa, species_info = env.Command(
-    target=['$out/one/seqs.fa', '$out/one/seq_info.csv'],
+one_fa, species_info = env.Command(
+    target=['$out/one/seqs.fasta', '$out/one/seq_info.csv'],
     source=[fa, info],
     action='extract_one.py --sort-by $sort_by $SOURCES $TARGETS')
+
+'''
+alignment
+'''
+one_msa = env.Command(
+    target='$out/one/msa.fasta',
+    source=[profile, one_fa],
+    action='hmmalign --dna --outformat afa -o $TARGET $SOURCES')
 
 '''
 candidatus info
@@ -306,7 +314,7 @@ candidatus info
 '''
 candidatus_fa = env.Command(
     target='$out/one/candidatus/seqs.fasta',
-    source=[species_fa, species_info],
+    source=[one_fa, species_info],
     action='partition_seqs.py --out $TARGET $SOURCES')
 
 '''
@@ -327,7 +335,7 @@ no candidatus fa
 '''
 no_candidatus_fa = env.Command(
     target='$out/one/no_candidatus/seqs.fasta',
-    source=[species_fa, species_info],
+    source=[one_fa, species_info],
     action='partition_seqs.py --out $TARGET $SOURCES')
 
 '''
