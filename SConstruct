@@ -174,7 +174,7 @@ else:
 drop duplicate records and refseq originals
 '''
 dedup_fa, dedup_info = env.Command(
-    target=['$out/ncbi/dedup/seqs.fa',
+    target=['$out/ncbi/dedup/seqs.fasta',
             '$out/ncbi/dedup/dedup.csv'],
     source=[ncbi_fa, ncbi_info],
     action='drop_duplicates.py $SOURCES $TARGETS')
@@ -305,7 +305,7 @@ candidatus_info = env.Command(
 candidatus info
 '''
 candidatus_fa = env.Command(
-    target='$out/one/candidatus/seqs.fa',
+    target='$out/one/candidatus/seqs.fasta',
     source=[species_fa, species_info],
     action='partition_seqs.py --out $TARGET $SOURCES')
 
@@ -326,7 +326,7 @@ no_candidatus_info = env.Command(
 no candidatus fa
 '''
 no_candidatus_fa = env.Command(
-    target='$out/one/no_candidatus/seqs.fa',
+    target='$out/one/no_candidatus/seqs.fasta',
     source=[species_fa, species_info],
     action='partition_seqs.py --out $TARGET $SOURCES')
 
