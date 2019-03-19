@@ -22,7 +22,7 @@ def main():
     info_csv = csv.DictReader(open(args.info))
     info = {r['seqname']: r for r in info_csv}
     originals = set(r['original'] for r in info.values())
-    info = {k: v for k, v in info.items() if k not in originals}
+    info = {k: v for k, v in info.items() if v['accession'] not in originals}
     info_out = csv.DictWriter(args.info_out, fieldnames=info_csv.fieldnames)
     info_out.writeheader()
     for s in SeqIO.parse(args.fasta, 'fasta'):
