@@ -238,14 +238,14 @@ type_hits = env.Command(
     action='hmmsearch --cpu 14 --tblout $TARGET $SOURCES > /dev/null')
 
 '''
-filter out type strain seqs < 525.  525 is chosen by viewing the
+filter out type strain seqs < 1.8e-103.  1.8e-103 is chosen by viewing the
 multiple alignment and choosing the last sequence that appears
 to be similar to the dnaj sequence
 '''
 hmmer_info = env.Command(
     target='$out/profile/filtered/seq_info.csv',
     source=[named_info, type_hits],
-    action='hmmer.py --min-score 525 --out $TARGET $SOURCES')
+    action='hmmer.py --max-evalue 1.8e-103 --out $TARGET $SOURCES')
 
 '''
 get seqs for new dnaj profile
@@ -277,12 +277,13 @@ hits = env.Command(
     action='hmmsearch --cpu 14 --tblout $TARGET $SOURCES > /dev/null')
 
 '''
-690 is the score of the last type strain that made it into the dnaj profile
+5.2e-132 is the score of NZ_CP012843_523929_525071 which looked wrong
+enough to make 5.1e-132 the --max-evalue
 '''
 info = env.Command(
     target='$out/seq_info.csv',
     source=[named_info, hits],
-    action='hmmer.py --min-score 690 --out $TARGET $SOURCES')
+    action='hmmer.py --max-evalue 5.1e-132 --out $TARGET $SOURCES')
 
 fa = env.Command(
     target='$out/seqs.fasta',
