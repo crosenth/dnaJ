@@ -207,7 +207,7 @@ named_fa = env.Command(
 '''
 get seqs for muscle alignment
 '''
-type_seqs = env.Command(
+type_fa = env.Command(
     target='$out/profile/seqs.fasta',
     source=[named_info, dedup_fa],
     action=['csvgrep.py --columns is_type True ${SOURCES[0]} | '
@@ -218,7 +218,7 @@ create muscle alignment
 '''
 muscle = env.Command(
     target='$out/profile/muscle.fasta',
-    source=type_seqs,
+    source=type_fa,
     action='muscle -in $SOURCE -out $TARGET')
 
 '''
@@ -233,26 +233,26 @@ rough_profile = env.Command(
 get type hits to first profile
 '''
 type_hits = env.Command(
-    target='$out/profile/hmmer.tsv',
-    source=[rough_profile, type_seqs],
+    target='$out/profile/hmm_rough.tsv',
+    source=[rough_profile, type_fa],
     action='hmmsearch --cpu 14 --tblout $TARGET $SOURCES > /dev/null')
 
 '''
-filter out type strain seqs < 1.8e-103.  1.8e-103 is chosen by viewing the
-multiple alignment and choosing the last sequence that appears
-to be similar to the dnaj sequence
+LR134137_3722540_3722971 is last seqname per muscle and type_hits
 '''
 hmmer_info = env.Command(
     target='$out/profile/filtered/seq_info.csv',
     source=[named_info, type_hits],
-    action='hmmer.py --max-evalue 1.8e-103 --out $TARGET $SOURCES')
+    action=['hmmer.py '
+            '--last-in LR134137_3722540_3722971 '
+            '--out $TARGET $SOURCES'])
 
 '''
 get seqs for new dnaj profile
 '''
 hmmer_seqs = env.Command(
     target='$out/profile/filtered/seqs.fasta',
-    source=[type_seqs, hmmer_info],
+    source=[type_fa, hmmer_info],
     action='partition_seqs.py --out $TARGET $SOURCES')
 
 '''
@@ -271,19 +271,31 @@ profile = env.Command(
     source=hmmer_msa,
     action='hmmbuild --dna --cpu 14 $TARGET $SOURCE')
 
+'''
+make another msa file for --max-evalue decision
+'''
+env.Command(
+    target='$out/types_msa.fasta',
+    source=[profile, type_fa],
+    action='hmmalign --outformat afa --dna -o $TARGET $SOURCES')
+
+'''
+hits against dnaj profile
+'''
 hits = env.Command(
     target='$out/hmmer.tsv',
     source=[profile, named_fa],
     action='hmmsearch --cpu 14 --tblout $TARGET $SOURCES > /dev/null')
 
 '''
-5.2e-132 is the score of NZ_CP012843_523929_525071 which looked wrong
-enough to make 5.1e-132 the --max-evalue
+LR134137_3722540_3722971 is last type strain in profile model
 '''
 info = env.Command(
     target='$out/seq_info.csv',
     source=[named_info, hits],
-    action='hmmer.py --max-evalue 5.1e-132 --out $TARGET $SOURCES')
+    action=['hmmer.py '
+            '--last-in LR134137_3722540_3722971 '
+            '--out $TARGET $SOURCES'])
 
 fa = env.Command(
     target='$out/seqs.fasta',
