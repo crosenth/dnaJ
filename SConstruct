@@ -332,7 +332,7 @@ candidatus info
 '''
 candidatus_fa = env.Command(
     target='$out/one/candidatus/seqs.fasta',
-    source=[one_fa, species_info],
+    source=[one_fa, candidatus_info],
     action='partition_seqs.py --out $TARGET $SOURCES')
 
 '''
@@ -353,7 +353,7 @@ no candidatus fa
 '''
 no_candidatus_fa = env.Command(
     target='$out/one/no_candidatus/seqs.fasta',
-    source=[one_fa, species_info],
+    source=[one_fa, no_candidatus_info],
     action='partition_seqs.py --out $TARGET $SOURCES')
 
 '''
