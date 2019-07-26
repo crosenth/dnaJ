@@ -272,7 +272,7 @@ profile = env.Command(
     action='hmmbuild --dna --cpu 14 $TARGET $SOURCE')
 
 '''
-make another msa file for --max-evalue decision
+make another msa file for --last-in decision
 '''
 env.Command(
     target='$out/types_msa.fasta',
