@@ -1,6 +1,7 @@
-# DnaJ pipeline
+### Publication
+McLean K, Rosenthal CA, Sengupta D, Owens J, Cookson BT, Hoffman NG, Salipante SJ. 2019. [Improved species-level clinical identification of Enterobacteriaceae through broad-range dnaJ PCR and sequencing](https://journals.asm.org/doi/full/10.1128/JCM.00986-19). *J Clin Microbiol* 57:e00986-19.]
 
-**By**: S Salipante, N Hoffman and C Rosenthal
+# DnaJ pipeline
 
 Chaperone DnaJ, also known as Hsp40 (heat shock protein 40 kD), 
 is a molecular chaperone protein. It is expressed in a wide 
@@ -123,6 +124,7 @@ looks something like this:
 
 ![](https://raw.githubusercontent.com/crosenth/dnaJ/master/images/Screenshot_from_2019-03-19_16-42-01.png)
 
-**TODO**: Figure out what is going on with the 14,719 dropped seqs. Any suggestions?
+### Future
 
-**TODO**: Turn this into our own NCBI dnaJ in-house reference database.
+1. Figure out what is going on with the 14,719 dropped seqs.
+2. Turn this into our own NCBI dnaJ in-house reference database.
